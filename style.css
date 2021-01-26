@@ -1,0 +1,52 @@
+body { 
+     background-color: #cfc0c0dc;    
+}
+.nav { 
+    padding: 25px;
+    display: inline-flex
+
+}
+
+#main-content { 
+    background-color: ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.post { 
+    background-color: white;
+     width: 50%; 
+     margin: 50px 0px;
+}
+.title {
+    display: flex; 
+    justify-content: space-between;
+    padding: 25px;
+}
+.picture { 
+    align-items: center;
+    display: flex;
+    justify-content: space-around ;
+   
+}
+#picture-aling { 
+    padding: 2px;
+    width: 500px;
+    height: 350px;
+}
+#parrafos { 
+    padding: 20px;
+}
+.instagram {
+    background-color:;
+    color: gray);
+    text-align: left;
+    font-family: 'Cookie', cursive;
+    display: flex;
+    justify-content: space-between;
+}
+
+#right-buttom {
+    padding-right: 10px;
+}
+  
